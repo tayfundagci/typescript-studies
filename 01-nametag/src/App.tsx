@@ -1,14 +1,8 @@
-import React from 'react';
-
-import './App.css';
+import NameTag from './components/NameTag';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-
-      </header>
-    </div>
+    <NameTag name="tayfun" />
   );
 }
 
