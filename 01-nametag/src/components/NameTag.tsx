@@ -1,4 +1,3 @@
-import * as PropTypes from "prop-types"
 
 type NameTagProps = {
     name: string;
